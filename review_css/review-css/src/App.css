@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2em;
+  text-align: center;
+}
+
+.brown-title{
+  background-color: red;
+  color: rgb(255, 153, 0);
+}
+
+.title{
+  background-color: rgb(255, 153, 0);
+  color: red;
+}

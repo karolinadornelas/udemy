@@ -1,0 +1,25 @@
+.cake_bx {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0; 
+  }
+  
+  .cake_by {
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .cake_by h4 {
+    color: pink;
+    background-color: brown;
+    margin: 0;
+    padding: 2px;
+  }
+  
+  .cake_by p {
+    color: black;
+    background-color: gray;
+    margin: 0;
+  }
+  
