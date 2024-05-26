@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Lemon Milk";
+  src: url(./assets/font/LEMONMILK-Bold.otf);
+}
+* {
+  font-family: "Lemon Milk";
+}
+
+html,
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  color: white;
+  background: rgb(51, 57, 77);
+  background: linear-gradient(
+    0deg,
+    rgba(51, 57, 77, 1) 0%,
+    rgba(104, 119, 159, 1) 50%,
+    rgba(153, 200, 156, 1) 100%
+  );
+}
