@@ -3,7 +3,7 @@ import React from "react";
 
 function GameOverScreen({ retry }) {
   return (
-    <div>
+    <div className="gameOver">
       <h1>game over</h1>
       <button onClick={retry}>reiniciar</button>
     </div>
