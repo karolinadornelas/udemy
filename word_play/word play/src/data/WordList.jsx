@@ -1,4 +1,4 @@
-export const wordList = {
+export const wordsList = {
   fruta: [
     "melancia",
     "maçã",
@@ -57,4 +57,4 @@ export const wordList = {
   ],
 };
 
-export default wordList;
+export default wordsList;
